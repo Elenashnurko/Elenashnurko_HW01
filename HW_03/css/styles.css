@@ -1,0 +1,47 @@
+h1 {  
+    text-align: center;  
+    padding: 23px;  
+    background-color: #8338ec;  
+    color: white;  
+    }  
+  
+#clear{  
+width: 270px;  
+border: 3px solid #240046;  
+    border-radius: 3px;  
+    padding: 20px;  
+    background-color: #3a86ff;  
+}  
+  
+.formstyle  
+{  
+width: 300px;  
+height: 530px;  
+margin: auto;  
+border: 3px solid #47126b;  
+border-radius: 5px;  
+padding: 20px;  
+}  
+  
+  
+  
+input  
+{  
+width: 20px;  
+background-color: #ff006e;  
+color: white;  
+border: 3px solid #240046;  
+    border-radius: 5px;  
+    padding: 26px;  
+    margin: 5px;  
+    font-size: 15px;  
+}  
+  
+  
+#calc{  
+width: 250px;  
+border: 5px solid #240046;  
+    border-radius: 3px;  
+    padding: 20px;  
+    margin: auto;  
+}  
